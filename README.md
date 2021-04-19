@@ -15,5 +15,3 @@ Taske#03_IKonzeptElektromobilitätBaden-Württemberg
 Taske#04_Lowfidelity
 <br>
 04.1: <a href="https://github.com/metinhan/IFD/blob/main/lowfidelity_Metin_Han.pdf">lowfidelity</a>
-<br>lowfidelity</a>
-<br>
