@@ -1,11 +1,11 @@
 # IFD
-Task 1_TheWalletProject
+Task 1: TheWalletProject
 <br>
-<a href="https://github.com/metinhan/IFD/blob/main/Task%201%20Metin%20Han.pdf</a>
+<a href="https://github.com/metinhan/IFD/blob/main/Task%201%20Metin%20Han.pdf">Konzept</a>
 <br>
-Task 2_Siehe Task 1
+Task 2: Siehe Task 1
 <br>
-Task 3_KonzeptElektromobilitätBaden-Württemberg
+Task 3: Konzept Elektromobilität Baden-Württemberg
 <br>
 3.1: <a href="https://github.com/metinhan/IFD/blob/main/Konzept%20Elektromobilität%20Baden-Württemberg.pdf">Konzept</a>
 <br>
