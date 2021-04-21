@@ -14,3 +14,5 @@ Task 3: Konzept Elektromobilität Baden-Württemberg
 Task 4: High/Low Fid Prototypes
 <br>
 4.1: <a href="https://github.com/metinhan/IFD/blob/main/lowfidelity_Metin_Han.pdf">lowfidelity</a>
+<br>
+4.2: <a href="https://github.com/metinhan/IFD/blob/main/GUI%20Tool%20Sketch.pdf">GUI</a>
