@@ -16,3 +16,6 @@ Task 4: High/Low Fid Prototypes
 4.1: <a href="https://github.com/metinhan/IFD/blob/main/lowfidelity_Metin_Han.pdf">lowfidelity</a>
 <br>
 4.2: <a href="https://github.com/metinhan/IFD/blob/main/GUI%20Tool%20Sketch.pdf">GUI</a>
+<br>
+Task 5: High Fidelity Prototype
+<a href="https://cedsgl.axshare.com">High_Fid_Prototype</a>
