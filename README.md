@@ -18,11 +18,12 @@ Task 4: High/Low Fid Prototypes
 4.2: <a href="https://github.com/metinhan/IFD/blob/main/GUI%20Tool%20Sketch.pdf">GUI</a>
 <br>
 Task 5: High Fidelity Prototype
+<br>
 <a href="https://cedsgl.axshare.com">High_Fid_Prototype</a>
 <br>
 Task 6: Evaluation/Top-Findings
 <br>
-Fragebogen: <a href="https://github.com/metinhan/IFD/blob/main/Prototyp%20Evaluation%20Metin%20Han.pdf">Fragebogen</a>
+<a href="https://github.com/metinhan/IFD/blob/main/Prototyp%20Evaluation%20Metin%20Han.pdf">Fragebogen</a>
 <br>
-Top-Findungs: <a href="https://github.com/metinhan/IFD/blob/main/Top%20Findings%20Metin%20Han.pdf">Top-Findings</a>
+<a href="https://github.com/metinhan/IFD/blob/main/Top%20Findings%20Metin%20Han.pdf">Top-Findings</a>
 <br>
