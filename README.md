@@ -27,3 +27,9 @@ Task 6: Evaluation/Top-Findings
 <br>
 <a href="https://github.com/metinhan/IFD/blob/main/Top%20Findings%20Metin%20Han.pdf">Top-Findings</a>
 <br>
+Task 7: Prototyp Enhancement:
+<br>
+<a href="https://sk81xo.axshare.com">Enhancement</a>
+<br>
+<a href="">Dokumentation</a>
+<br>
