@@ -33,3 +33,7 @@ Task 7: Prototyp Enhancement:
 <br>
 <a href="https://github.com/metinhan/IFD/blob/main/Dokumentation_Metin_Han.pdf">Dokumentation</a>
 <br>
+Task 10: VUI Konzept:
+<br>
+<a href="https://github.com/metinhan/IFD/blob/main/Sprachassistent_Electra.pdf">VUI-Konzept</a>
+<br>
