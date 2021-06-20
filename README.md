@@ -41,5 +41,4 @@ Task 11: VUI:
 <br>
 <a href="https://cloud.protopie.io/p/80e4881c6f">VUI</a>
 <br>
-VUI Screencast:
-<a href="https://www.youtube.com/watch?v=IDP24eoiycU&ab_channel=MetinHan">VUI</a>
+<a href="https://www.youtube.com/watch?v=IDP24eoiycU&ab_channel=MetinHan">VUI Screencast</a>
