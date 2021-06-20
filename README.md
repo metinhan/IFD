@@ -37,7 +37,6 @@ Task 10: VUI Konzept:
 <br>
 <a href="https://github.com/metinhan/IFD/blob/main/Sprachassistent_Electra.pdf">VUI-Konzept</a>
 <br>
-<br>
 Task 11: VUI:
 <br>
 <a href="https://cloud.protopie.io/p/80e4881c6f">VUI</a>
